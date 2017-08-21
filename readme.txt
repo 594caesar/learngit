@@ -12,3 +12,6 @@ create a new branch is quick and simple
 >>>>>>> feature1
 
 create a merge
+study bug branch
+
+add tag
