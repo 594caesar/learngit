@@ -5,3 +5,4 @@ git tracks changes
 
 connect to github
 create a new branch 
+create a new branch is quick and simple
